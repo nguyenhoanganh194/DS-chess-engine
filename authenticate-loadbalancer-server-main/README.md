@@ -7,3 +7,4 @@ Install docker and open the terminal
 docker build -t auth_server .
 docker run -it -p {portHTTP}:{8001} auth_server
 ```
+Origin repo: https://github.com/nguyenhoanganh194/authenticate-loadbalancer-server
