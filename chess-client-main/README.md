@@ -1,9 +1,9 @@
 # DS-project
- The DS project oulu course
+ The DS project Oulu course
 ## Project Instructions:
-Go to release page and download the application.
-After deploying all 3 type of servers, open the application. Type the ip of auth server in to the input field and click login.
+Go to the release page and download the application.
+After deploying all 3 types of servers, open the application. Type the IP of the auth server into the input field and click login.
 You can play chess online with other players or play with AI.
 ![image](https://user-images.githubusercontent.com/61496266/224284978-1c86bc18-92ad-422f-9e7a-3080bf7fa945.png)
 
-https://github.com/nguyenhoanganh194/chess-client
+Origin repo: https://github.com/nguyenhoanganh194/chess-client
