@@ -1,0 +1,2 @@
+# DS-chess-engine
+A distributed system project that is done alone by me. Grade: 5/5. The project contents 3 different nodes that run in Docker Container on the server side (load balancer, game server, AI server). The project aim to create a chess engine that can do match-making, validation game state (Cheat proof) and can scale vertically and horizontally. The project GitHub can be found in my GitHub account.
